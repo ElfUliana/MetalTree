@@ -1,0 +1,112 @@
+body { 
+	background: url(http://images2.layoutsparks.com/1/117987/spurs-metallic-grey-concave.gif);
+	font: 12px/1.5 sans-serif;
+}
+#title {
+	position: relative;
+	z-index: -1;
+	height: 200px;
+	background: url(http://dunjinni.com/forums/uploads/dblade/FFD_chain_black_dbl.png);
+}
+#metal {
+	height: 297px;
+	background: url(http://www.mwnd.com/mwnd/mwnd_logo2.png) no-repeat;
+	background-position: center;
+	opacity: 0.7;
+}
+.quote {
+	text-align: center;
+	color: #800000;
+	font-style: italic;
+	text-shadow: black 0px 0px 30px;
+}
+.name {
+	text-align: right;
+	color: green;
+}
+
+
+#content {
+	padding: 20px;
+	color: black;
+	overflow: hidden;
+}
+#content p {
+	font-size: 16px;
+	text-indent: 20px;
+}
+
+
+.left-column {
+	float: left;
+	margin-top: 50px;
+	margin-left: 20px;
+	width: 400px;
+}
+
+#table {
+	background: black url(http://www.fbi.lv/public/images/articles/large_v-arene-riga-vyistup82.jpg) top center no-repeat;
+}
+#table2 {
+	background: black url(http://news.softpedia.com/images/news2/Metallica-s-Kirk-Hammett-Explains-Accidental-Kicking-of-Girl-in-Concert-2.jpg) top center no-repeat;
+}
+#table3 {
+	background: black url(http://jpn.up.pt/wp-content/uploads/2014/12/kurt-Cobain.jpg) top center no-repeat;
+}
+#table4 {
+	background: black url(http://www.thedailysheeple.com/wp-content/uploads/2013/08/kid-rock-black.jpg) top center no-repeat;
+}
+
+.table {
+	border-radius: 20px;
+	background-size: auto 100%;
+	padding: 1%;
+	margin-bottom: 10px;
+	height: 200px;
+}
+
+#list {
+	width: 300px;
+	margin-top: 50px;
+	float: right;
+}
+#list ul {
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+#list ul li {
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+#list ul li a  {
+	overflow: hidden;
+	white-space: nowrap;
+	text-overflow: ellipsis;
+	display: block;
+	outline: none;
+	color: #18162C;
+	line-height: 24px;
+}
+
+
+#img img {
+	width: 100%;
+}
+.groups {
+	display: table;
+	margin: 32px auto;
+}
+
+.carouselgroups {
+	display: table;
+	margin: auto;
+}
+
+.carouselgroups img {
+	border-radius: 50px;
+}
+.groups img {
+	margin: 3px;
+}
