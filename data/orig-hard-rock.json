@@ -1,43 +1,43 @@
 {
   "main": {
     "header": "Original Hard Rock",
-    "art": "/images/logos/2d8f4555bdd0a309ee08f9a870eedf0e-d40edyo.png",
+    "art": "\/images\/logos\/2d8f4555bdd0a309ee08f9a870eedf0e-d40edyo.png",
     "content": [
       "Hard rock (or heavy rock) is a loosely defined subgenre of rock music which has its earliest roots in mid-1960s garage rock, blues rock and psychedelic rock. It is typified by a heavy use of aggressive vocals, distorted electric guitars, bass guitar, drums, and often accompanied with pianos and keyboards.",
-      "Hard rock developed into a major form of popular music in the 1970s, with bands such as Led Zeppelin, The Who, Deep Purple, Aerosmith, AC/DC and Van Halen. During the 1980s some hard rock bands moved away from their hard rock roots and more towards pop rock, while others began to return to a hard rock sound. Established bands made a comeback in the mid-1980s and it reached a commercial peak in the 1980s, with glam metal bands like Bon Jovi and Def Leppard and the rawer sounds of Guns N' Roses, which followed up with great success in the later part of that decade. Hard rock began losing popularity with the commercial success of grunge and later Britpop in the 1990s.",
+      "Hard rock developed into a major form of popular music in the 1970s, with bands such as Led Zeppelin, The Who, Deep Purple, Aerosmith, AC\/DC and Van Halen. During the 1980s some hard rock bands moved away from their hard rock roots and more towards pop rock, while others began to return to a hard rock sound. Established bands made a comeback in the mid-1980s and it reached a commercial peak in the 1980s, with glam metal bands like Bon Jovi and Def Leppard and the rawer sounds of Guns N' Roses, which followed up with great success in the later part of that decade. Hard rock began losing popularity with the commercial success of grunge and later Britpop in the 1990s.",
       "Despite this, many post-grunge bands adopted a hard rock sound and in the 2000s there came a renewed interest in established bands, attempts at a revival, and new hard rock bands that emerged from the garage rock and post-punk revival scenes. In the 2000s, only a few hard rock bands from the 1970s and 1980s managed to sustain highly successful recording careers."
     ]
   },
   "groups": [
     {
-      "image": "/images/ThinLizzy.jpg",
+      "image": "\/images\/ThinLizzy.jpg",
       "title": "Thin Lizzy",
-      "ref": "http://en.wikipedia.org/wiki/Thin_Lizzy",
+      "ref": "http:\/\/en.wikipedia.org\/wiki\/Thin_Lizzy",
       "icon": "/images/logos/thin-lizzy-logo.jpg"
     },
     {
-      "image": "/images/BlueOysterCult.jpg",
-      "title": "Blue Öyster Cult",
-      "ref": "http://en.wikipedia.org/wiki/Blue_%C3%96yster_Cult",
+      "image": "\/images\/BlueOysterCult.jpg",
+      "title": "Blue \u00d6yster Cult",
+      "ref": "http:\/\/en.wikipedia.org\/wiki\/Blue_%C3%96yster_Cult",
       "icon": "/images/logos/Boc_small.png"
     },
     {
-      "image": "/images/Aerosmith_BW.jpg",
+      "image": "\/images\/Aerosmith_BW.jpg",
       "title": "Aerosmith",
-      "ref": "http://en.wikipedia.org/wiki/Aerosmith",
-      "icon": "images/logos/79647F.JPG"
+      "ref": "http:\/\/en.wikipedia.org\/wiki\/Aerosmith",
+      "icon": "images\/logos\/79647F.JPG"
     },
     {
-      "image": "/images/ACDC.jpg",
-      "title": "AC/DC",
-      "ref": "http://en.wikipedia.org/wiki/AC/DC",
-      "icon": "/images/logos/120px-Acdclogo.gif"
+      "image": "\/images\/ACDC.jpg",
+      "title": "AC\/DC",
+      "ref": "http:\/\/en.wikipedia.org\/wiki\/AC\/DC",
+      "icon": "\/images\/logos\/120px-Acdclogo.gif"
     },
     {
-      "image": "/images/Ted-Nugent.jpg",
+      "image": "\/images\/Ted-Nugent.jpg",
       "title": "Ted Nugent",
-      "ref": "http://en.wikipedia.org/wiki/Ted_Nugent",
-      "icon": "/images/logos/ted-nugent-blue-black-name-logo.jpg"
+      "ref": "http:\/\/en.wikipedia.org\/wiki\/Ted_Nugent",
+      "icon": "\/images\/logos\/ted-nugent-blue-black-name-logo.jpg"
     }
   ]
 }

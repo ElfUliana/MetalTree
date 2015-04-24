@@ -1,79 +1,79 @@
 {
-  "main": {
-    "header": "Power Metal",
-    "art": "/images/logos/RIP_Ronnie_James_Dio_by_lammondrop.png",
-    "content": [
-      " Power metal is a subgenre of heavy metal combining characteristics of traditional metal with speed metal, often within symphonic context. Generally, power metal is characterized by a more uplifting sound, in contrast to the heaviness and dissonance prevalent in styles such as doom metal and death metal. Power metal bands usually have anthem-like songs with fantasy-based subject matter and strong choruses, thus creating a theatrical, dramatic and emotionally \"powerful\" sound. The term was first used in the middle of the '80s and refers to two different but related styles: the first pioneered and largely practiced in North America with a harder sound similar to speed metal, and a later more widespread and popular style based in Europe (especially Scandinavia, Germany, Greece and Italy), South America (especially Brazil and Argentina) and Japan, with a lighter, more melodic sound and frequent use of keyboards.",
-      " Anthropologist Sam Dunn traced the origins of power metal back to the late 1970s, when the groundwork for power metal lyrical style was laid down by Ronnie James Dio. The fantasy-oriented lyrics he wrote for Rainbow, concentrated around medieval, renaissance, folk and science fiction themes, directly influenced modern power metal bands. It is mentioned that songs \"Stargazer\" and \"Kill the King\", from the 1976 album Rising and 1978's Long Live Rock 'n' Roll respectively, might be among the earliest examples of power metal. In his 2011 documentary series Metal Evolution, Dunn further explained how Rob Halford of Judas Priest created a blueprint for power metal vocal delivery. His almost constant high-pitched singing became one of the main characteristics of power metal. The twin-guitar sound promoted by duo of K.K. Downing and Glenn Tipton highly influenced this subgenre. Another pioneer in the Power Metal genre is Jon Mikl Thor. He was the first to introduce \"Muscle rock\" to the masses and was a huge inspiration to the band \"Manowar\". Thor's contributions have gone largely ignored for over three decades, but the style and sound is indeed there if you research it.",
-      " Another British band, Iron Maiden, brought epic and melodic sensibility to metal, creating anthemic, singalong music, an approach widely embraced by modern power metal musicians. The emergence of the early German power metal scene in particular was made possible by Scorpions and Accept. Swedish guitarist Yngwie Malmsteen made a significant impact on many future power metal guitarists, with his accurate and fast neo-classical style. His bandmate Jens Johansson modernized the keyboard sound of Deep Purple's Jon Lord, which was further incorporated into the genre. American band Manowar's mythological sword and sorcery lyrics influenced a number of power metal bands. In 1987 Helloween released their second album, Keeper of the Seven Keys, Pt. 1, cited by Allmusic as \"a landmark recording that remains arguably the single most influential power metal album to date. Its volatile combination of power and melody would inspire an entire generation of metal bands\" "
+    "main": {
+        "header": "Power Metal",
+        "art": "\/images\/logos\/RIP_Ronnie_James_Dio_by_lammondrop.png",
+        "content": [
+            "Power metal is a subgenre of heavy metal combining characteristics of traditional metal with speed metal, often within symphonic context. Generally, power metal is characterized by a more uplifting sound, in contrast to the heaviness and dissonance prevalent in styles such as doom metal and death metal. Power metal bands usually have anthem-like songs with fantasy-based subject matter and strong choruses, thus creating a theatrical, dramatic and emotionally \"powerful\" sound. The term was first used in the middle of the '80s and refers to two different but related styles: the first pioneered and largely practiced in North America with a harder sound similar to speed metal, and a later more widespread and popular style based in Europe (especially Scandinavia, Germany, Greece and Italy), South America (especially Brazil and Argentina) and Japan, with a lighter, more melodic sound and frequent use of keyboards.",
+            "Anthropologist Sam Dunn traced the origins of power metal back to the late 1970s, when the groundwork for power metal lyrical style was laid down by Ronnie James Dio. The fantasy-oriented lyrics he wrote for Rainbow, concentrated around medieval, renaissance, folk and science fiction themes, directly influenced modern power metal bands. It is mentioned that songs \"Stargazer\" and \"Kill the King\", from the 1976 album Rising and 1978's Long Live Rock 'n' Roll respectively, might be among the earliest examples of power metal. In his 2011 documentary series Metal Evolution, Dunn further explained how Rob Halford of Judas Priest created a blueprint for power metal vocal delivery. His almost constant high-pitched singing became one of the main characteristics of power metal. The twin-guitar sound promoted by duo of K.K. Downing and Glenn Tipton highly influenced this subgenre. Another pioneer in the Power Metal genre is Jon Mikl Thor. He was the first to introduce \"Muscle rock\" to the masses and was a huge inspiration to the band \"Manowar\". Thor's contributions have gone largely ignored for over three decades, but the style and sound is indeed there if you research it.",
+            "Another British band, Iron Maiden, brought epic and melodic sensibility to metal, creating anthemic, singalong music, an approach widely embraced by modern power metal musicians. The emergence of the early German power metal scene in particular was made possible by Scorpions and Accept. Swedish guitarist Yngwie Malmsteen made a significant impact on many future power metal guitarists, with his accurate and fast neo-classical style. His bandmate Jens Johansson modernized the keyboard sound of Deep Purple's Jon Lord, which was further incorporated into the genre. American band Manowar's mythological sword and sorcery lyrics influenced a number of power metal bands. In 1987 Helloween released their second album, Keeper of the Seven Keys, Pt. 1, cited by Allmusic as \"a landmark recording that remains arguably the single most influential power metal album to date. Its volatile combination of power and melody would inspire an entire generation of metal bands\"."
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/Scorpions.jpg",
+            "title": "Scorpions",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Scorpions_(band)",
+            "icon": "\/images\/logos\/Scorpions.jpg"
+        },
+        {
+            "image": "\/images\/judas-priest.jpg",
+            "title": "Judas Priest",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Judas_Priest",
+            "icon": "\/images\/logos\/Judas%20Priest.jpg"
+        },
+        {
+            "image": "\/images\/Blue_Cheer_1968.jpg",
+            "title": "Rainbow",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Rainbow_(rock_band)",
+            "icon": "\/images\/logos\/Rainbow.jpg"
+        },
+        {
+            "image": "\/images\/deep-purple5.jpg",
+            "title": "Accept",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Accept_(band)",
+            "icon": "\/images\/logos\/logosaccept.jpg"
+        },
+        {
+            "image": "\/images\/led.jpg",
+            "title": "Manowar",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Manowar",
+            "icon": "\/images\/logos\/full_manowar.jpg"
+        },
+        {
+            "image": "\/images\/mc5-50ae6357db134.jpg",
+            "title": "Dio",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Dio_(band)",
+            "icon": "\/images\/logos\/Dio.jpg"
+        },
+        {
+            "image": "\/images\/mountain.sm.jpeg",
+            "title": "Yngwie J. Malmsteen",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Yngwie_Malmsteen",
+            "icon": "\/images\/logos\/YngwieJ.Malmsteen.jpg"
+        },
+        {
+            "image": "\/images\/The%20Stooges.jpg",
+            "title": "HammerFall",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/HammerFall",
+            "icon": "\/images\/logos\/Hammerfall_logo.jpg"
+        },
+        {
+            "image": "\/images\/Black%20Sabbath.jpg",
+            "title": "Helloweenh",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Helloween",
+            "icon": "\/images\/logos\/helloween_logo.jpg"
+        },
+        {
+            "image": "",
+            "title": "Blind Guardian",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Blind_Guardian",
+            "icon": "\/images\/logos\/Blind_Guardian.jpg"
+        },
+        {
+            "image": "",
+            "title": "Primal Fear",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Primal_Fear_(band)",
+            "icon": "\/images\/logos\/Primal_Fear.jpg"
+        }
     ]
-  },
-  "groups": [
-    {
-      "image": "/images/Scorpions.jpg",
-      "title": "Scorpions",
-      "ref": "http://en.wikipedia.org/wiki/Scorpions_(band)",
-      "icon": "/images/logos/Scorpions.jpg"
-    },
-    {
-      "image": "/images/judas-priest.jpg",
-      "title": "Judas Priest",
-      "ref": "http://en.wikipedia.org/wiki/Judas_Priest",
-      "icon": "/images/logos/Judas%20Priest.jpg"
-    },
-    {
-      "image": "",
-      "title": "Rainbow",
-      "ref": "http://en.wikipedia.org/wiki/Rainbow_(rock_band)",
-      "icon": "/images/logos/Rainbow.jpg"
-    },
-    {
-      "image": "",
-      "title": "Accept",
-      "ref": "http://en.wikipedia.org/wiki/Accept_(band)",
-      "icon": "/images/logos/logosaccept.jpg"
-    },
-    {
-      "image": "",
-      "title": "Manowar",
-      "ref": "http://en.wikipedia.org/wiki/Manowar",
-      "icon": "/images/logos/full_manowar.jpg"
-    },
-    {
-      "image": "",
-      "title": "Dio",
-      "ref": "http://en.wikipedia.org/wiki/Dio_(band)",
-      "icon": "/images/logos/Dio.jpg"
-    },
-    {
-      "image": "",
-      "title": "Yngwie J. Malmsteen",
-      "ref": "http://en.wikipedia.org/wiki/Yngwie_Malmsteen",
-      "icon": "/images/logos/YngwieJ.Malmsteen.jpg"
-    },
-    {
-      "image": "",
-      "title": "HammerFall",
-      "ref": "http://en.wikipedia.org/wiki/HammerFall",
-      "icon": "/images/logos/Hammerfall_logo.jpg"
-    },
-    {
-      "image": "",
-      "title": "Helloweenh",
-      "ref": "http://en.wikipedia.org/wiki/Helloween",
-      "icon": "/images/logos/helloween_logo.jpg"
-    },
-    {
-      "image": "",
-      "title": "Blind_Guardian",
-      "ref": "http://en.wikipedia.org/wiki/Blind_Guardian",
-      "icon": "/images/logos/Blind_Guardian.jpg"
-    },
-    {
-      "image": "",
-      "title": "Primal Fear",
-      "ref": "http://en.wikipedia.org/wiki/Primal_Fear_(band)",
-      "icon": "/images/logos/Primal_Fear.jpg"
-    }
-  ]
 }

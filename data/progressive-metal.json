@@ -1,0 +1,66 @@
+{
+    "main": {
+        "header": "Progressive Metal",
+        "art": "\/images\/logos\/gitarrist.png",
+        "content": [
+            "Progressive metal (sometimes known as prog metal or prog-metal) is a subgenre of both progressive rock and heavy metal, originating in the United Kingdom and the United States In the 1970s. Progressive metal blended elements of heavy metal and progressive rock music, taking the loud \"aggression\"and amplified electric guitar-driven sound of the former, with the more experimental, complex and \"pseudo-classical\" compositions of the latter. Progressive metal often utilises the conceptual themes associated with progressive rock. Throughout the years, progressive metal has borrowed influences from several other genres, including classical and jazz fusion music.",
+            "\n\nWhilst the genre emerged towards the late-1980s, it was not until the 1990s that progressive metal achieved commercial success. Dream Theater, Queensr\u00ffche, Tool and Fates Warning are a few examples of progressive metal bands who achieved commercial success; additionally, heavy metal bands such as Megadeth incorporated elements of progressive music in their work. Progressive metal's popularity started to decline towards the end of the 1990s, but it remains a largely underground genre with a committed fan base."
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/3166524-cream1.jpg",
+            "title": "Cream",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Uriah_Heep_(band)",
+            "icon": "\/images\/logos\/Uriah%20Heeplogo.jpg"
+        },
+        {
+            "image": "\/images\/Jimi.jpg",
+            "title": "Jimi Hendrix",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Rush_(band)",
+            "icon": "\/images\/logos\/rush-band-logo.jpg"
+        },
+        {
+            "image": "\/images\/Blue_Cheer_1968.jpg",
+            "title": "Blue Cheer",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Queensr%C3%BFche",
+            "icon": "\/images\/logos\/Queensryche.jpg"
+        },
+        {
+            "image": "\/images\/deep-purple5.jpg",
+            "title": "Deep Purple",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Savatage",
+            "icon": "\/images\/logos\/savatage.jpg"
+        },
+        {
+            "image": "\/images\/led.jpg",
+            "title": "Led Zeppelin",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Fates_Warning",
+            "icon": "\/images\/logos\/FatesWarning.jpg"
+        },
+        {
+            "image": "\/images\/mc5-50ae6357db134.jpg",
+            "title": "MC5",
+            "ref": "hhttp:\/\/en.wikipedia.org\/wiki\/Voivod_(band)",
+            "icon": "\/images\/logos\/Voivod.jpg"
+        },
+        {
+            "image": "\/images\/mountain.sm.jpeg",
+            "title": "Mountain",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Dream_Theater",
+            "icon": "\/images\/logos\/dream_theater-logo-back.jpg"
+        },
+        {
+            "image": "\/images\/The%20Stooges.jpg",
+            "title": "The Stooges",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Meshuggah",
+            "icon": "\/images\/logos\/meshuggah-1.gif"
+        },
+        {
+            "image": "\/images\/Black%20Sabbath.jpg",
+            "title": "Black Sabbath",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Symphony_X",
+            "icon": "\/images\/logos\/symphony_x_logo.jpg"
+        }
+    ]
+}

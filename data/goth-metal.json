@@ -1,0 +1,65 @@
+{
+    "main": {
+        "header": "Goth Metal",
+        "art": "",
+        "content": [
+
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/3166524-cream1.jpg",
+            "title": "Cream",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Cream_%28band%29",
+            "icon": "http:\/\/www.amalies.no\/images\/merke-cream.png"
+        },
+        {
+            "image": "\/images\/Jimi.jpg",
+            "title": "Jimi Hendrix",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Jimi_Hendrix",
+            "icon": "http:\/\/www.pubzi.com\/f\/sm-Jimi-Hendrix.png"
+        },
+        {
+            "image": "\/images\/Blue_Cheer_1968.jpg",
+            "title": "Blue Cheer",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Blue_Cheer",
+            "icon": "\/images\/logos\/header.png"
+        },
+        {
+            "image": "\/images\/deep-purple5.jpg",
+            "title": "Deep Purple",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Deep_Purple",
+            "icon": "\/images\/logos\/DP_logo.JPG"
+        },
+        {
+            "image": "\/images\/led.jpg",
+            "title": "Led Zeppelin",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Led_Zeppelin",
+            "icon": "http:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/9\/9e\/Led_Zeppelin_logo.svg\/100px-Led_Zeppelin_logo.svg.png"
+        },
+        {
+            "image": "\/images\/mc5-50ae6357db134.jpg",
+            "title": "MC5",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/MC5",
+            "icon": "\/images\/logos\/Image3.gif"
+        },
+        {
+            "image": "\/images\/mountain.sm.jpeg",
+            "title": "Mountain",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Mountain_(band)",
+            "icon": "http:\/\/www.clker.com\/cliparts\/M\/2\/c\/r\/o\/u\/mountain-outline-th.png"
+        },
+        {
+            "image": "\/images\/The%20Stooges.jpg",
+            "title": "The Stooges",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/The_Stooges",
+            "icon": "\/images\/logos\/stooges_logo_f.jpg"
+        },
+        {
+            "image": "\/images\/Black%20Sabbath.jpg",
+            "title": "Black Sabbath",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Black_Sabbath",
+            "icon": "\/images\/logos\/black_sabbath.jpg"
+        }
+    ]
+}

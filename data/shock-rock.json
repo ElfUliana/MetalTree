@@ -1,52 +1,52 @@
 {
-  "main": {
-    "header": "Shock Rock",
-    "art": "/images/logos/76de487856f8afa18cc7a9143f1d03f1-d3b1kv1.png",
-    "content": [
-      "Screamin' Jay Hawkins was arguably the first shock rocker. After the success of his 1956 hit \"I Put a Spell on You\", Hawkins began to perform a recurring stunt at many of his live shows; he would emerge from a coffin, sing into a skull-shaped microphone and set off smoke bombs. Another artist who performed similar stunts was the British singer-songwriter Screaming Lord Sutch.",
-      "The 1960s brought several proto-shock rock artists. In the UK, The Who often destroyed their instruments, The Move did the same to television sets, and Arthur Brown wore vivid makeup and a flaming headpiece. In the US, Jimi Hendrix set his guitar alight at the Monterey Pop Festival in 1967, while Detroit musician Iggy Pop's violent, erratic onstage persona drew widespread recognition, as Pop would often throw his body about the stage, frequently injuring his band members.",
-      "With a career spanning the mid-1960s to today, American band leader Alice Cooper refined shock rock, with expensive, upscale illusionary, graphic stunts, such as feigning decapitation with the use of elaborate special effects.[1] In the early 1970s, Cooper's unique blend of heavy metal and folk blues, complete with sardonic and inevitably controversial lyrics, proved a powerful inspiration for many future genre artists such as KISS of the mid 1970s; W.A.S.P., Gwar, and King Diamond of the 1980s; and Marilyn Manson of the 1990s.",
-      "From the late 1970s to his death in 1993, GG Allin was known less for his music than for his wildly transgressive antics, which included indecent exposure (stripping and performing naked was one of Allin's most common rituals), on-stage defecation, coprophagia, self-mutilation, and attacking audience members (allegedly setting a fan on fire after one show in Ann Arbor, Michigan). He was also known to beat his own head in with a microphone onstage and promised for many years that he would commit suicide on stage as a sacrifice to rock and roll (though he died of an accidental heroin overdose at a party before seeing that threat coming true). Allin's lyrics were known for being politically incorrect.",
-      "In the 1980s in Richmond, Virginia, Gwar formed as a collaboration of artists and musicians. The band members make their own lavish monster costumes, which they claim are inspired by many of the creatures from H. P. Lovecraft's literary multiverse, the Cthulhu Mythos. Gwar frequently incorporates extravagant theatrics into their shows, such as mock jousts and pretending to murder each other. Gwar condemned Eldon Hoke, the vocalist of the Mentors, during their appearance on The Jerry Springer Show, because he advocated rape during his interview.",
-      "In the 1990s and 2000s, Marilyn Manson became perhaps the most notable and well known act in shock rock, being dubbed by the media as one of the most controversial and shocking musicians in music history. Manson's stage antics, such as burning the American flag and ripping pages out of the bible, have been the focus of protests throughout his career. Manson argues that his visual and vocal styles and unique interpretations of familiar songs contribute to his public appeal."
+    "main": {
+        "header": "Shock Rock",
+        "art": "\/images\/logos\/76de487856f8afa18cc7a9143f1d03f1-d3b1kv1.png",
+        "content": [
+            "Screamin' Jay Hawkins was arguably the first shock rocker. After the success of his 1956 hit \"I Put a Spell on You\", Hawkins began to perform a recurring stunt at many of his live shows; he would emerge from a coffin, sing into a skull-shaped microphone and set off smoke bombs. Another artist who performed similar stunts was the British singer-songwriter Screaming Lord Sutch.",
+            " The 1960s brought several proto-shock rock artists. In the UK, The Who often destroyed their instruments, The Move did the same to television sets, and Arthur Brown wore vivid makeup and a flaming headpiece. In the US, Jimi Hendrix set his guitar alight at the Monterey Pop Festival in 1967, while Detroit musician Iggy Pop's violent, erratic onstage persona drew widespread recognition, as Pop would often throw his body about the stage, frequently injuring his band members.",
+            "With a career spanning the mid-1960s to today, American band leader Alice Cooper refined shock rock, with expensive, upscale illusionary, graphic stunts, such as feigning decapitation with the use of elaborate special effects.[1] In the early 1970s, Cooper's unique blend of heavy metal and folk blues, complete with sardonic and inevitably controversial lyrics, proved a powerful inspiration for many future genre artists such as KISS of the mid 1970s; W.A.S.P., Gwar, and King Diamond of the 1980s; and Marilyn Manson of the 1990s.",
+            "From the late 1970s to his death in 1993, GG Allin was known less for his music than for his wildly transgressive antics, which included indecent exposure (stripping and performing naked was one of Allin's most common rituals), on-stage defecation, coprophagia, self-mutilation, and attacking audience members (allegedly setting a fan on fire after one show in Ann Arbor, Michigan). He was also known to beat his own head in with a microphone onstage and promised for many years that he would commit suicide on stage as a sacrifice to rock and roll (though he died of an accidental heroin overdose at a party before seeing that threat coming true). Allin's lyrics were known for being politically incorrect.",
+            "In the 1980s in Richmond, Virginia, Gwar formed as a collaboration of artists and musicians. The band members make their own lavish monster costumes, which they claim are inspired by many of the creatures from H. P. Lovecraft's literary multiverse, the Cthulhu Mythos. Gwar frequently incorporates extravagant theatrics into their shows, such as mock jousts and pretending to murder each other. Gwar condemned Eldon Hoke, the vocalist of the Mentors, during their appearance on The Jerry Springer Show, because he advocated rape during his interview.",
+            "In the 1990s and 2000s, Marilyn Manson became perhaps the most notable and well known act in shock rock, being dubbed by the media as one of the most controversial and shocking musicians in music history. Manson's stage antics, such as burning the American flag and ripping pages out of the bible, have been the focus of protests throughout his career. Manson argues that his visual and vocal styles and unique interpretations of familiar songs contribute to his public appeal."
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/arthur-brown-buzz.jpg",
+            "title": "Arthur Brown",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Arthur_Brown_(musician)",
+            "icon": "\/images\/logos\/2938834.jpg"
+        },
+        {
+            "image": "\/images\/alice-cooper.jpg",
+            "title": "Alice Cooper",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Alice_Cooper",
+            "icon": "\/images\/logos\/alice-cooper-logo.jpg"
+        },
+        {
+            "image": "\/images\/NY_DOLLS_Gruen.jpg",
+            "title": "New York Dolls",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/New_York_Dolls",
+            "icon": "\/images\/logos\/new%20york%20dolls%20logo1.png"
+        },
+        {
+            "image": "\/images\/Kiss.jpg",
+            "title": "Kiss",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Kiss_(band)",
+            "icon": "\/images\/logos\/KISS-Logo_50x119.png"
+        },
+        {
+            "image": "\/images\/Ozzy-Os.jpg",
+            "title": "Ozzy Osbourne",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Ozzy_Osbourne",
+            "icon": "\/images\/logos\/Ozzy_Osbourne.jpg"
+        },
+        {
+            "image": "\/images\/W.A.S.P..jpg",
+            "title": "W.A.S.P.",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/W.A.S.P.",
+            "icon": "\/images\/logos\/wasp_logo.jpg"
+        }
     ]
-  },
-  "groups": [
-    {
-      "image": "/images/arthur-brown-buzz.jpg",
-      "title": "Arthur Brown",
-      "ref": "http://en.wikipedia.org/wiki/Arthur_Brown_(musician)",
-      "icon": "/images/logos/2938834.jpg"
-    },
-    {
-      "image": "/images/alice-cooper.jpg",
-      "title": "Alice Cooper",
-      "ref": "http://en.wikipedia.org/wiki/Alice_Cooper",
-      "icon": "/images/logos/alice-cooper-logo.jpg"
-    },
-    {
-      "image": "/images/NY_DOLLS_Gruen.jpg",
-      "title": "New York Dolls",
-      "ref": "http://en.wikipedia.org/wiki/New_York_Dolls",
-      "icon": "/images/logos/new%20york%20dolls%20logo1.png"
-    },
-    {
-      "image": "/images/Kiss.jpg",
-      "title": "Kiss",
-      "ref": "http://en.wikipedia.org/wiki/Kiss_(band",
-      "icon": "/images/logos/KISS-Logo_50x119.png"
-    },
-    {
-      "image": "/images/Ozzy-Os.jpg",
-      "title": "Ozzy Osbourne",
-      "ref": "http://en.wikipedia.org/wiki/Ozzy_Osbourne",
-      "icon": "/images/logos/Ozzy_Osbourne.jpg"
-    },
-    {
-      "image": "/images/W.A.S.P..jpg",
-      "title": "W.A.S.P.",
-      "ref": "http://en.wikipedia.org/wiki/W.A.S.P.",
-      "icon": "/images/logos/wasp_logo.jpg"
-    }
-  ]
 }

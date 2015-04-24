@@ -1,67 +1,67 @@
 {
-  "main": {
-    "header": "Early Metal",
-    "art": "/images/logos/1c0812825cc6dae8a618a17b737691e2-d3kithq.png",
-    "content": [
-      "Heavy metal (or simply metal) is a genre of rock music that developed in the late 1960s and early 1970s, largely in the United Kingdom and the United States. With roots in blues rock and psychedelic rock, the bands that created heavy metal developed a thick, massive sound, characterized by highly amplified distortion, extended guitar solos, emphatic beats, and overall loudness. Heavy metal lyrics and performance styles are often associated with masculinity, aggression, and machismo.",
-      "The first heavy metal bands such as Led Zeppelin, Deep Purple and Black Sabbath attracted large audiences, though they were often derided by critics, a status common throughout the history of the genre. During the mid-1970s, Judas Priest helped spur the genre's evolution by discarding much of its blues influence; Mot?rhead introduced a punk rock sensibility and an increasing emphasis on speed. Beginning in the late 1970s, bands in the New Wave of British Heavy Metal such as Iron Maiden and Saxon followed in a similar vein. Before the end of the decade, heavy metal fans became known as \"metalheads\" or \"headbangers\".",
-      "During the 1980s, glam metal became a commercial force with groups like M?tley Cr?e and Poison. Underground scenes produced an array of more aggressive styles: thrash metal broke into the mainstream with bands such as Metallica, Megadeth, Slayer, and Anthrax, while other extreme subgenres of metal like death metal and black metal remain subcultural phenomena. Since the mid-1990s, popular styles such as groove metal (e.g., Pantera), which draws influence from extreme metal and hardcore punk, and nu metal (e.g., Slipknot), which often incorporates elements of grunge and hip hop, have further expanded the definition of the genre."
+    "main": {
+        "header": "Early Metal",
+        "art": "\/images\/logos\/1c0812825cc6dae8a618a17b737691e2-d3kithq.png",
+        "content": [
+            " Heavy metal (or simply metal) is a genre of rock music that developed in the late 1960s and early 1970s, largely in the United Kingdom and the United States. With roots in blues rock and psychedelic rock, the bands that created heavy metal developed a thick, massive sound, characterized by highly amplified distortion, extended guitar solos, emphatic beats, and overall loudness. Heavy metal lyrics and performance styles are often associated with masculinity, aggression, and machismo.",
+            "The first heavy metal bands such as Led Zeppelin, Deep Purple and Black Sabbath attracted large audiences, though they were often derided by critics, a status common throughout the history of the genre. During the mid-1970s, Judas Priest helped spur the genre's evolution by discarding much of its blues influence; Mot\u00f6rhead introduced a punk rock sensibility and an increasing emphasis on speed. Beginning in the late 1970s, bands in the New Wave of British Heavy Metal such as Iron Maiden and Saxon followed in a similar vein. Before the end of the decade, heavy metal fans became known as \"metalheads\" or \"headbangers\".",
+            " During the 1980s, glam metal became a commercial force with groups like M\u00f6tley Cr\u00fce and Poison. Underground scenes produced an array of more aggressive styles: thrash metal broke into the mainstream with bands such as Metallica, Megadeth, Slayer, and Anthrax, while other extreme subgenres of metal like death metal and black metal remain subcultural phenomena. Since the mid-1990s, popular styles such as groove metal (e.g., Pantera), which draws influence from extreme metal and hardcore punk, and nu metal (e.g., Slipknot), which often incorporates elements of grunge and hip hop, have further expanded the definition of the genre."
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/3166524-cream1.jpg",
+            "title": "Cream",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Cream_%28band%29",
+            "icon": "/images/logos/merke-cream.png"
+        },
+        {
+            "image": "\/images\/Jimi.jpg",
+            "title": "Jimi Hendrix",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Jimi_Hendrix",
+            "icon": "/images/logos/sm-Jimi-Hendrix.png"
+        },
+        {
+            "image": "\/images\/Blue_Cheer_1968.jpg",
+            "title": "Blue Cheer",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Blue_Cheer",
+            "icon": "\/images\/logos\/header.png"
+        },
+        {
+            "image": "\/images\/deep-purple5.jpg",
+            "title": "Deep Purple",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Deep_Purple",
+            "icon": "\/images\/logos\/DP_logo.JPG"
+        },
+        {
+            "image": "\/images\/led.jpg",
+            "title": "Led Zeppelin",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Led_Zeppelin",
+            "icon": "/images/logos/100px-Led_Zeppelin_logo.svg.png"
+        },
+        {
+            "image": "\/images\/mc5-50ae6357db134.jpg",
+            "title": "MC5",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/MC5",
+            "icon": "\/images\/logos\/Image3.gif"
+        },
+        {
+            "image": "\/images\/mountain.sm.jpeg",
+            "title": "Mountain",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Mountain_(band)",
+            "icon": "/images/logos/mountain-outline-th.png"
+        },
+        {
+            "image": "\/images\/The%20Stooges.jpg",
+            "title": "The Stooges",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/The_Stooges",
+            "icon": "\/images\/logos\/stooges_logo_f.jpg"
+        },
+        {
+            "image": "\/images\/Black%20Sabbath.jpg",
+            "title": "Black Sabbath",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Black_Sabbath",
+            "icon": "\/images\/logos\/black_sabbath.jpg"
+        }
     ]
-  },
-  "groups": [
-    {
-      "image": "/images/3166524-cream1.jpg",
-      "title": "Cream",
-      "ref": "http://en.wikipedia.org/wiki/Cream_%28band%29",
-      "icon": "/images/logos/merke-cream.png"
-    },
-    {
-      "image": "/images/Jimi.jpg",
-      "title": "Jimi Hendrix",
-      "ref": "http://en.wikipedia.org/wiki/Jimi_Hendrix",
-      "icon": "/images/logos/sm-Jimi-Hendrix.png"
-    },
-    {
-      "image": "/images/Blue_Cheer_1968.jpg",
-      "title": "Blue Cheer",
-      "ref": "http://en.wikipedia.org/wiki/Blue_Cheer",
-      "icon": "/images/logos/header.png"
-    },
-    {
-      "image": "/images/deep-purple5.jpg",
-      "title": "Deep Purple",
-      "ref": "http://en.wikipedia.org/wiki/Deep_Purple",
-      "icon": "/images/logos/DP_logo.JPG"
-    },
-    {
-      "image": "/images/led.jpg",
-      "title": "Led Zeppelin",
-      "ref": "http://en.wikipedia.org/wiki/Led_Zeppelin",
-      "icon": "/images/logos/100px-Led_Zeppelin_logo.svg.png"
-    },
-    {
-      "image": "/images/mc5-50ae6357db134.jpg",
-      "title": "MC5",
-      "ref": "http://en.wikipedia.org/wiki/MC5",
-      "icon": "/images/logos/Image3.gif"
-    },
-    {
-      "image": "/images/mountain.sm.jpeg",
-      "title": "Mountain",
-      "ref": "http://en.wikipedia.org/wiki/Mountain_(band)",
-      "icon": "/images/logos/mountain-outline-th.png"
-    },
-    {
-      "image": "/images/The%20Stooges.jpg",
-      "title": "The Stooges",
-      "ref": "http://en.wikipedia.org/wiki/The_Stooges",
-      "icon": "/images/logos/stooges_logo_f.jpg"
-    },
-    {
-      "image": "/images/Black%20Sabbath.jpg",
-      "title": "Black Sabbath",
-      "ref": "http://en.wikipedia.org/wiki/Black_Sabbath",
-      "icon": "/images/logos/black_sabbath.jpg"
-    }
-  ]
 }

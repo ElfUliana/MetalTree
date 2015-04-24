@@ -1,0 +1,61 @@
+{
+    "main": {
+        "header": "Glam Metal",
+        "art": "\/images\/logos\/chibi_glam_rockers_by_savanas-d63h1wm.png",
+        "content": [
+            "Glam metal (also known as hair metal, sleaze metal and often used synonymously with pop metal) is a subgenre of hard rock and heavy metal. It combines elements of those genres with punk rock and pop music, adding catchy hooks and guitar riffs, while borrowing from the aesthetic of 1970s glam rock.",
+            "The style can be traced back to acts like Aerosmith, the Alice Cooper group, Boston, Cheap Trick, Kiss, The New York Dolls, and Van Halen. It arose in the late 1970s and early 1980s in the United States, particularly on the Los Angeles Sunset Strip music scene, pioneered by bands such as M\u00f6tley Cr\u00fce, Quiet Riot, Ratt and Bon Jovi. It was popular throughout the 1980s and the beginning of the 1990s, bringing to prominence bands including Poison, Cinderella, and Warrant. Glam metal was also associated with flashy clothing and makeup. Poison, for example, had long shaggy or backcombed hair, accessories, metal studs, leather and make-up during their live performances.",
+            "The genre lost mainstream interest in the late 1980s as the perceived excesses of glam metal created a backlash against the genre. A massive factor in its decline was the rise of grunge in the early 1990s, which had a stripped-down aesthetic and a complete rejection of the glam metal visual style. It has enjoyed a revival since the beginning of the new millennium with reunions of many popular acts from the genre`s 1980s heyday, as well as the retro styling of new bands including The Darkness from the UK and Steel Panther from Los Angeles."
+        ]
+    },
+    "groups": [
+        {
+            "image": "\/images\/3166524-cream1.jpg",
+            "title": "Cream",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Slade",
+            "icon": "\/images\/logos\/Slade-logo.jpg"
+        },
+        {
+            "image": "\/images\/Jimi.jpg",
+            "title": "Jimi Hendrix",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Sweet_(band)",
+            "icon": "\/images\/logos\/Sweet.jpg"
+        },
+        {
+            "image": "\/images\/Blue_Cheer_1968.jpg",
+            "title": "Blue Cheer",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Hanoi_Rocks",
+            "icon": "\/images\/logos\/hanoi_rocks.jpg"
+        },
+        {
+            "image": "\/images\/deep-purple5.jpg",
+            "title": "Deep Purple",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/M%C3%B6tley_Cr%C3%BCe",
+            "icon": "\/images\/logos\/Motley_crue_logo_5.jpg"
+        },
+        {
+            "image": "\/images\/led.jpg",
+            "title": "Led Zeppelin",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Twisted_Sister",
+            "icon": "\/images\/logos\/twisted_sister_logo.jpg"
+        },
+        {
+            "image": "\/images\/mc5-50ae6357db134.jpg",
+            "title": "MC5",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Poison_(American_band)",
+            "icon": "\/images\/logos\/Poison.jpg"
+        },
+        {
+            "image": "\/images\/mountain.sm.jpeg",
+            "title": "Mountain",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Cinderella_(band)",
+            "icon": "\/images\/logos\/Cinderella_Logo.jpg"
+        },
+        {
+            "image": "\/images\/The%20Stooges.jpg",
+            "title": "The Stooges",
+            "ref": "http:\/\/en.wikipedia.org\/wiki\/Skid_Row_(American_band)",
+            "icon": "\/images\/logos\/logo_skidrow.jpg"
+        }
+    ]
+}
