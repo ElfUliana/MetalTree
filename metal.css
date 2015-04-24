@@ -40,11 +40,11 @@ body {
 .left-column {
 	float: left;
 	margin-top: 50px;
-	margin-left: 20px;
+	margin-right: 20px;
 	width: 400px;
 }
 
-#table {
+#table1 {
 	background: black url(http://www.fbi.lv/public/images/articles/large_v-arene-riga-vyistup82.jpg) top center no-repeat;
 }
 #table2 {

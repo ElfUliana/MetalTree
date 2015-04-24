@@ -1,0 +1,56 @@
+{
+  "main": {
+    "header": "New Wave of British Heavy Metal",
+    "art": "/images/logos/1c0812825cc6dae8a618a17b737691e2-d3kithq.png",
+    "content": [
+      "The New Wave of British Heavy Metal (NWOBHM) was a heavy metal movement that started in the late 1970s, in Britain, and achieved international attention by the early 1980s. After Sounds editor Alan Lewis coined the term, journalist Geoff Barton first used it in the May 1979 issue of Sounds magazine as a way of describing a second wave of heavy metal bands that emerged in the late 1970s during the period of punk rock's decline and the dominance of new wave music. The movement developed as a reaction in part to the decline of early heavy metal bands such as Led Zeppelin, Deep Purple and Black Sabbath.",
+      "NWOBHM bands toned down the blues influences of earlier acts, incorporated elements of punk (and in the case of Iron Maiden combined it with progressive rock), increased the tempo, and adopted a \"tougher\" sound, taking a harder approach to its music. It was an era directed almost exclusively at heavy metal fans[2] and is considered to be a major foundation stone for the extreme metal genres; Witchfinder General, Venom and Satan were the first pioneers of extreme metal and acts such as the American metal band Metallica cite NWOBHM bands like Iron Maiden, Saxon, Motörhead and Diamond Head as a major influence on their musical style.",
+      "The NWOBHM came to dominate the heavy metal scene of the early-mid-1980s. NWOBHM was musically characterized by fast upbeat tempo songs, power chords, fast guitar solos and melodic, soaring vocals, with lyrical themes often drawing inspiration from mythology and fantasy fiction.",
+      "Many of the bands of this era were signed to Neat Records, who have released volumes of NWOBHM compilations in later years."
+      ]
+  },
+  "groups": [
+    {
+      "image": "/images/MOTORHEAD0000.png",
+      "title": "Motörhead",
+      "ref": "http://en.wikipedia.org/wiki/Mot%C3%B6rhead",
+      "icon": "/images/logos/motorhead34.jpg"
+    },
+    {
+      "image": "/images/saxon.jpg",
+      "title": "Saxon",
+      "ref": "http://en.wikipedia.org/wiki/Saxon_(band)",
+      "icon": "/images/logos/images-saxonlogo1.jpg"
+    },
+    {
+      "image": "/images/IronMaiden.jpg",
+      "title": "Iron Maiden",
+      "ref": "http://en.wikipedia.org/wiki/Iron_Maiden",
+      "icon": "/images/logos/iron-maiden.jpg"
+    },
+    {
+      "image": "/images/angel-witch.jpg",
+      "title": "Angel Witch",
+      "ref": "http://en.wikipedia.org/wiki/Angel_Witch",
+      "icon": "/images/logos/angelwitch.jpg"
+    },
+    {
+      "image": "/images/Girlschool.jpg",
+      "title": "Girlschool",
+      "ref": "http://en.wikipedia.org/wiki/Girlschool",
+      "icon": "/images/logos/Girlschool_logo.jpg"
+    },
+    {
+      "image": "/images/TygersofPanTang.jpg",
+      "title": "Tygers of Pan Tang",
+      "ref": "http://en.wikipedia.org/wiki/Tygers_of_Pan_Tang",
+      "icon": "/images/logos/tygers-logo2.png"
+    },
+    {
+      "image": "/images/diamondhead.jpg",
+      "title": "Diamond Head",
+      "ref": "http://en.wikipedia.org/wiki/Diamond_Head_(band)",
+      "icon": "/images/logos/Diamond-Head_logo.jpg"
+    }
+  ]
+}

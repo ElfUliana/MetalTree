@@ -7,10 +7,7 @@
 				url: '/',
 				views: {
 					content: {
-						templateUrl: 'home-content.html'
-					},
-					left: {
-						templateUrl: 'home-left.html'
+						templateUrl: 'home.html'
 					}
 				}
 			}
@@ -22,10 +19,7 @@
 				url: '/early-metal',
 				views: {
 					content: {
-						templateUrl: 'early-metal-content.html'
-					},
-					left: {
-						templateUrl: 'early-metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -37,10 +31,7 @@
 				url: '/orig-hard-rock',
 				views: {
 					content: {
-						templateUrl: 'orig-hard-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -52,10 +43,7 @@
 				url: '/shock-rock',
 				views: {
 					content: {
-						templateUrl: 'shock-rock-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -67,10 +55,7 @@
 				url: '/early-punk',
 				views: {
 					content: {
-						templateUrl: 'early-punk-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -82,10 +67,7 @@
 				url: '/new-wave-of-british-heavy-metal',
 				views: {
 					content: {
-						templateUrl: 'new-wave-of-british-heavy-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -97,10 +79,7 @@
 				url: '/power-metal',
 				views: {
 					content: {
-						templateUrl: 'power-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -112,10 +91,7 @@
 				url: '/progressive-metal',
 				views: {
 					content: {
-						templateUrl: 'progressive-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -127,10 +103,7 @@
 				url: '/glam-metal',
 				views: {
 					content: {
-						templateUrl: 'glam-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -142,10 +115,7 @@
 				url: '/pop-metal',
 				views: {
 					content: {
-						templateUrl: 'pop-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -157,10 +127,7 @@
 				url: '/stoner-metal',
 				views: {
 					content: {
-						templateUrl: 'stoner-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -173,10 +140,7 @@
 				url: '/original-hardcore',
 				views: {
 					content: {
-						templateUrl: 'original-hardcore-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -188,10 +152,7 @@
 				url: '/thrash-metal',
 				views: {
 					content: {
-						templateUrl: 'thrash-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -203,10 +164,7 @@
 				url: '/first-wave-of-black-metal',
 				views: {
 					content: {
-						templateUrl: 'first-wave-of-black-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -218,10 +176,7 @@
 				url: '/norwegian-black-metal',
 				views: {
 					content: {
-						templateUrl: 'norwegian-black-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -233,10 +188,7 @@
 				url: '/grindcore',
 				views: {
 					content: {
-						templateUrl: 'grindcore-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -248,10 +200,7 @@
 				url: '/death-metal',
 				views: {
 					content: {
-						templateUrl: 'death-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -263,10 +212,7 @@
 				url: '/swedish-death-metal',
 				views: {
 					content: {
-						templateUrl: 'swedish-death-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -278,10 +224,7 @@
 				url: '/goth-metal',
 				views: {
 					content: {
-						templateUrl: 'goth-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -293,10 +236,7 @@
 				url: '/metalcore',
 				views: {
 					content: {
-						templateUrl: 'metalcore-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -308,10 +248,7 @@
 				url: '/grunge',
 				views: {
 					content: {
-						templateUrl: 'grunge-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -323,10 +260,7 @@
 				url: '/industrial-metal',
 				views: {
 					content: {
-						templateUrl: 'industrial-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -338,10 +272,7 @@
 				url: '/hard-alternative',
 				views: {
 					content: {
-						templateUrl: 'hard-alternative-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -353,10 +284,7 @@
 				url: '/nu-metal',
 				views: {
 					content: {
-						templateUrl: 'nu-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
 			}
@@ -368,27 +296,30 @@
 				url: '/new-wave-of-american-metal',
 				views: {
 					content: {
-						templateUrl: 'new-wave-of-american-metal-content.html'
-					},
-					left: {
-						templateUrl: 'metal-left.html'
+						templateUrl: 'genre.html'
 					}
 				}
-			},
-			content: {
-				img: "",
-				text: ""
 			}
-		},
+		}
 	];
 
-var metalConent = [
-]
-	angular.module('app', [
+	var application = angular.module('MetalTree', [
 		'ui.router'
-	])
+	]);
 
-	.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
+	application.controller('HomePageCtrl', function ($scope, $http) {
+        $http.get('data/home.json').success(function(data) {
+            $scope.data = data;
+        });
+	});
+
+    application.controller('GenrePagerCtrl', function ($scope, $http, $state) {
+        $http.get('data/' + $state.current.name + '.json').success(function(data) {
+            $scope.data = data;
+        });
+    });
+
+    application.config(['$stateProvider', '$urlRouterProvider', function ($stateProvider, $urlRouterProvider) {
 		$urlRouterProvider.otherwise('/');
 
 		metalTypes.forEach(function (metalType) {
@@ -404,31 +335,6 @@ var metalConent = [
 	}]);
 
 })();
-var isBig = false;
-function bigPict() {
-	var element = document.metalgenere;
-	var hasWidth = element.width<580;
-	if (!isBig && hasWidth) {
-		console.log("big:" + element.width);
-		element.width+=20;
-		// document.metalgenere.src="/images/metal-genere.jpg"
-		setTimeout("bigPict()", 10)
-	} else if (!hasWidth) {
-		isBig = true;
-	}
-}
-function smallPict() {
-	var element = document.metalgenere;
-	var hasWidth = element.width > 200;
-	if (isBig && hasWidth) {
-		console.log("small:" + element.width);
-		element.width-=20;
-		// document.metalgenere.src="/images/metal-genere.jpg"
-		setTimeout("smallPict()", 10)
-	} else if (!hasWidth) {
-		isBig = false;
-	}
-}
 $('.carousel').carousel({
   interval: 2000
-})
+});

@@ -1,0 +1,38 @@
+<div ng-controller="HomePageCtrl">
+    <div class="left-column">
+      <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+        <!-- Indicators -->
+        <ol class="carousel-indicators">
+          <li ng-repeat="quote in quotes" data-target="#carousel-example-generic" data-slide-to="{{ $index }}" ng-class="{active:$first}"></li>
+        </ol>
+
+        <!-- Wrapper for slides -->
+        <div class="carousel-inner">
+          <div ng-repeat="quote in data.quotes" class="item" ng-class="{active:$first}">
+            <div id="table{{ $index + 1 }}" class="table">
+              <div class="quote">
+                <h4>{{ quote.text }}</h4>
+                <div class="name"><h4>{{ quote.author }}</h4></div>
+              </div>
+            </div>
+            <div class="carousel-caption"></div>
+          </div>
+        </div>
+
+        <!-- Controls -->
+        <a class="left carousel-control" href="#carousel-example-generic" data-slide="prev">
+          <span class="glyphicon glyphicon-chevron-left"></span>
+        </a>
+        <a class="right carousel-control" href="#carousel-example-generic" data-slide="next">
+          <span class="glyphicon glyphicon-chevron-right"></span>
+        </a>
+      </div>
+      <div id="img">
+        <img src="/images/logos/heavy-metal-hi.png" alt="Heavy Metal">
+      </div>
+    </div>
+    <h2 class="quote">{{ data.main.header }}</h2>
+    <div>
+        <p ng-repeat="part in data.main.content">{{ part }}</p>
+    </div>
+</div>
